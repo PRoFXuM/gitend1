@@ -11,4 +11,4 @@
 * CSS
 * Git
 
-![Моё фото](img\IMG_20220322_122307.jpg)
+![Моё фото](https://github.com/PRoFXuM/gitend1/blob/master/img/IMG_20220322_122307.jpg)
